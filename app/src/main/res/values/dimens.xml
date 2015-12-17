@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="thermostat_radius">250dp</dimen>
+    <dimen name="temp_text_size">60dp</dimen>
+    <dimen name="control_temp_size">45dp</dimen>
+    <dimen name="control_padding">15dp</dimen>
+</resources>

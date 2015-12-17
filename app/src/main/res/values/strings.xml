@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NestTest</string>
+    <string name="app_thermo">Nest Thermostat</string>
+    <string name="app_smoke">Nest protect</string>
+    <string name="action_settings">Settings</string>
+    <string name="thermostat_off">Off</string>
+    <string name="thermostat_away">Away</string>
+    <string name="thermostat_auto_away">Auto Away</string>
+    <string name="away_state_home">Home</string>
+    <string name="away_state_away">Away</string>
+    <string name="away_state_auto_away">Auto Away</string>
+    <string name="thermostat_name">Thermostats name: </string>
+    <string name="smoke_name">Nest protect name: </string>
+    <string name="smoke_ui_color">UI color state: </string>
+    <string name="smoke_co_state">CO alarm state: </string>
+    <string name="smoke_state">Smoke state: </string>
+    <string name="thermostat_temperature">Thermostats temperature scale: </string>
+    <string name="thermostat_can_cool">Can cool: </string>
+    <string name="thermostat_can_heat">Can heat: </string>
+    <string name="thermostat_has_fan">Has fan: </string>
+    <string name="thermostat_has_leaf">Has leaf: </string>
+    <string name="thermostat_fan_timer">Fan timer timeout: </string>
+    <string name="thermostat_target_temp">Target temperature: </string>
+
+
+</resources>
